@@ -213,3 +213,7 @@ second chances, undo), save/load round trips, statistics and streaks, achievemen
   with demo data. It never touches your saved data. Pages: `play`, `hint`, `notes`, `paused`,
   `win`, `gameover`, `help`, `flyout`, `picker`, `daily`, `stats`, `achievements`, `settings`.
 - `tools\make_icon.ps1` regenerates `res\app.ico`.
+
+## License
+
+Released under the [MIT License](LICENSE).
